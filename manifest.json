@@ -1,0 +1,13 @@
+{
+  "Name": "GrassyFlowers",
+  "Author": "Tochitos2",
+  "Version": "1.0.0",
+  "Description": "A Content Patcher pack that adds grass beneath flower crops.",
+  "UniqueID": "Tochitos2.GrassyFlowers",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher", 
+    "MinimumVersion": "1.13.0" 
+  }
+}
