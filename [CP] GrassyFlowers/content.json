@@ -1,0 +1,12 @@
+{
+   "Format": "1.13.0",
+   "Changes": [
+      {
+         "Action": "EditImage",
+         "Target": "TileSheets/crops",
+         "FromFile": "assets/summer_spangle.png",
+         "FromArea": { "X": 0, "Y": 0, "Width": 64, "Height": 16 },
+         "ToArea": { "X": 160, "Y": 464, "Width": 64, "Height": 16 }
+      },
+   ]
+}
